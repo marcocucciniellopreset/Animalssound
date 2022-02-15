@@ -7,4 +7,4 @@ The project presents a second a second Git Hub page in which in addition to the 
 link_ [Editor_Totem](https://editor.p5js.org/marcocucciniellopreset/sketches/X5bfHW2yY)
 link_ [Sketch_Totem](https://marcocucciniellopreset.github.io/Animali/)
 
-<iframe "width = 400"; "height = 600"; src="https://marcocucciniellopreset.github.io/Animali" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe width = "400" height = "600" src="https://marcocucciniellopreset.github.io/Animali" style = "height: 100%; width: 100%; border: none;"></iframe>
