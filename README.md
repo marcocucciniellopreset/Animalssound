@@ -4,6 +4,7 @@ Animals is the title of a multimedia project whose content is based on the impor
 
 The project presents a second a second Git Hub page in which in addition to the description of the artistic idea, there will be a small interactive application; clicking on the icons representing the animals Sì will listen to a soundscape related to the context in which the species lives.
 
-link_ [Totem](https://editor.p5js.org/marcocucciniellopreset/sketches/X5bfHW2yY)
+link_ [Editor_Totem](https://editor.p5js.org/marcocucciniellopreset/sketches/X5bfHW2yY)
+link_ [Sketch_Totem](https://marcocucciniellopreset.github.io/Animali/)
 
 <iframe src="https://marcocucciniellopreset.github.io/Animali" style = "height: 100%; width: 100%; border: none;"></iframe>
